@@ -26,3 +26,10 @@
 *.exe
 *.out
 *.app
+
+#Folders
+Debug/
+
+#Eclipse Files
+.project
+.cproject
